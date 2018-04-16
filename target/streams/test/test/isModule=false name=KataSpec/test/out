@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mKataSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mKata[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when countOdds is called[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  - should take in an int and provide a int *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    10 did not equal 2 (KataSpec.scala:8)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when countOdds is called[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  - should take in an int and provide a list of ints *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m    8 did not equal List(Range.Inclusive(5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20)) (KataSpec.scala:14)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  when countOdds is called[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should take in an int and provide a list of even ints[0m[0m
