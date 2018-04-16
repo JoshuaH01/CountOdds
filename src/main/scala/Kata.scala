@@ -1,3 +1,4 @@
+/*
 object Kata extends App {
 
   def countOdds( input : Int) : Int = {
@@ -6,3 +7,4 @@ object Kata extends App {
   }
   countOdds(5)
 }
+*/

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn/githill/CountOdds/src/main/scala/Bonus.scala:5:11: Int does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    salary(15000)[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

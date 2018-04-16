@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c78e1ae5-7152-49f6-97db-0c982b8179f7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/scala/Kata.scala" afterPath="$PROJECT_DIR$/src/main/scala/Kata.scala" />
-      <change beforePath="$PROJECT_DIR$/yvgbhuj.sc" afterPath="$PROJECT_DIR$/yvgbhuj.sc" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/KataSpec.scala" afterPath="$PROJECT_DIR$/src/test/scala/KataSpec.scala" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Kata$.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Kata$delayedInit$body.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Kata.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/KataSpec.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,31 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Kata.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/Kata.scala">
+      <file leaf-file-name="Bonus.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Bonus.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BonusSpec.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/BonusSpec.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yvgbhuj.sc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/yvgbhuj.sc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KataSpec.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/KataSpec.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -79,10 +73,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/test/scala/KataSpec.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/yvgbhuj.sc" />
+        <option value="$PROJECT_DIR$/src/test/scala/KataSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Kata.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/BonusSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Bonus.scala" />
       </list>
     </option>
   </component>
@@ -128,6 +124,13 @@
               <item name="CountOdds" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CountOdds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CountOdds" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CountOdds" type="b2602c69:ProjectViewProjectNode" />
@@ -390,14 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/KataSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/yvgbhuj.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -408,8 +403,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Kata.scala">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/KataSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Bonus.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/BonusSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
